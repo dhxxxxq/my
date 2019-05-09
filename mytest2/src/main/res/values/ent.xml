@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entry2">
+        <item>全部</item>
+        <item>美术</item>
+        <item>音乐</item>
+        <item>英语</item>
+    </string-array>
+</resources>

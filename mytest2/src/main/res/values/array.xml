@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="button_text">
+        <item>登录</item>
+        <item>注册</item>
+    </string-array>
+    <string-array name="button_text1">zhucee</string-array>
+</resources>
